@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/animated-slider/static/css/main.a9709297.chunk.css",
+    "main.js": "/animated-slider/static/js/main.2285989d.chunk.js",
+    "main.js.map": "/animated-slider/static/js/main.2285989d.chunk.js.map",
+    "runtime-main.js": "/animated-slider/static/js/runtime-main.9d22ced4.js",
+    "runtime-main.js.map": "/animated-slider/static/js/runtime-main.9d22ced4.js.map",
+    "static/css/2.afd40c00.chunk.css": "/animated-slider/static/css/2.afd40c00.chunk.css",
+    "static/js/2.258a094c.chunk.js": "/animated-slider/static/js/2.258a094c.chunk.js",
+    "static/js/2.258a094c.chunk.js.map": "/animated-slider/static/js/2.258a094c.chunk.js.map",
+    "index.html": "/animated-slider/index.html",
+    "precache-manifest.31184e90f6f7de9603c5b577578a4969.js": "/animated-slider/precache-manifest.31184e90f6f7de9603c5b577578a4969.js",
+    "service-worker.js": "/animated-slider/service-worker.js",
+    "static/css/2.afd40c00.chunk.css.map": "/animated-slider/static/css/2.afd40c00.chunk.css.map",
+    "static/css/main.a9709297.chunk.css.map": "/animated-slider/static/css/main.a9709297.chunk.css.map",
+    "static/js/2.258a094c.chunk.js.LICENSE.txt": "/animated-slider/static/js/2.258a094c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d22ced4.js",
+    "static/css/2.afd40c00.chunk.css",
+    "static/js/2.258a094c.chunk.js",
+    "static/css/main.a9709297.chunk.css",
+    "static/js/main.2285989d.chunk.js"
+  ]
+}
